@@ -11,3 +11,6 @@ Aide :
   - Si la valeur courante est supérieure à 'max', elle devient le nouveau 'max'.
 - Affichez le résultat.
 */
+
+const values = [11, 3, 7, 2, 9, 10];
+

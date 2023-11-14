@@ -15,6 +15,12 @@ Version alternative (avec BONUS) :
 4. Affichez le message final : "… + … + … = …".
 */
 
+const values = [11, 3, 7, 2, 9, 10];
+
+console.log("Voici mon tableau de nombre :")
+console.log(values)
+
+console.log("La somme des nombres de mon tableau est :")
 
 
 
